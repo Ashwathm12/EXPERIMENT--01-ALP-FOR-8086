@@ -1,6 +1,7 @@
 # EXPERIMENT 01 ALP FOR 8086
 ## Name : Ashwath M
 ## Reg no : 212223230023
+## Date : 10-03-2025
 
 ## Aim:
 To Write and execute ALP on fundamental arithmetic and logical operations
