@@ -68,7 +68,7 @@ HLT
 ## Output  
 ![DIV EX](https://github.com/JananiSoundararajan/EXPERIMENT--01-ALP-FOR-8086/assets/119477549/b34c43fd-318d-4df8-995b-d4357456f886)
 
-## And of 8 bit numbers ALP
+## AND of 8 bit numbers ALP
 ```assembly
 MOV AL,33H
 MOV BL,44H
@@ -111,36 +111,3 @@ HLT
 ## Result :
 
 The execution of ALP on fundamental arithmetic and logical operations is successfully completed.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
